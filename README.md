@@ -5,3 +5,11 @@ The Program Project Based Internship will provide you with virtual internship ex
 ID/X Partners (PT IDX Consulting) was founded in 2002 and has been serving companies across Asia and Australia in various industries, especially in financial services, telecommunications, manufacturing, and retail. ID/X Partners provides consulting services specializing in leveraging data analytics and decisioning (DAD) solutions combined with risk management and integrated marketing disciplines to help clients optimize portfolio profitability and business processes. The comprehensive consulting services and technology solutions offered by ID/X Partners make it a one-stop service provider.
 
 ## Objective
+The objective of this project is to develop a machine learning model which can predict credit risk based on dataset provided, which includes loan data approved and rejected. 
+
+## Challenges
+- **Challenge 1**: Data Understanding, Exploratory Data Analysis.
+- **Challenge 2**: Data Preparation, Data Modelling, Evaluation.
+- **Challenge 3**: Machine Learning Algorithm.
+
+## Datasets
